@@ -36,6 +36,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   carousel_slider: ^4.1.1
   http: ^0.13.4
+  pie_chart: ^5.0.1
+  flutter_custom_clippers: ^2.0.0
+  flutter_local_notifications: ^9.0.0
 
 dev_dependencies:
   flutter_test:
